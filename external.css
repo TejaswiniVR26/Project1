@@ -1,0 +1,34 @@
+.b{
+    height: 30px;
+    width: 250px;
+}
+.b1{
+    height: 30px;
+    width: 250px;
+    background-color: #0095F6;
+    color: white;
+    border-radius: 6px;
+}
+.b2{
+    text-decoration: none;
+    color:black;
+}
+
+
+.a{
+    background-color:#0095F6;
+    color:white;
+    width: 250px;
+    height: 30px;
+    border-radius: 6px;
+}
+.a2{
+    text-decoration: none;
+    color:rgb(13, 13, 130);
+}
+.a3{
+    width: 250px;
+    height:30px;
+}
+
+ 
